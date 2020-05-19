@@ -1,0 +1,58 @@
+﻿isbn13,title,author,editor,publisher,edition,category,publication_date,language,first_published,type,pages,purchase_price
+978-1449316822,Statistics in a Nutshell ,Sarah Boslaugh,,O'Reilly Media,2,mathematics,2012,english,2008,paperback,594,15.99
+978-0140136296,How to Lie with Statistics,Darrell Huff,,Penguin,1,mathematics,1991,english,1991,paperback,128,9.98
+978-0201633610,Design Patterns: Elements of Reusable Object-Oriented Software,"Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson",,Addison Wesley,1,software engineering,1994,english,1994,hardcover,416,34.99
+978-1491946008,Fluent Python,Luciano Ramalho,,O'Reilly Media,1,programming,2015,english,2015,paperback,770,28.81
+978-0486498201,Common LISP: A Gentle Introduction to Symbolic Computation ,David Touretzky,,Dover Publications,1,programming,2013,english,2013,paperback,608,26.99
+978-0521545662,Lisp in Small Pieces,Christian Queinnec,,Cambridge University Press,1,programming,2010,english,2010,paperback,536,50.53
+978-1435712751,Let Over Lambda,Doug Hoyte,,lulu.com,1,computer science,2008,english,2008,paperback,384,29.84
+978-1558601918,Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp ,Peter Novig,,Morgan Kaufmann,1,computer science,1991,english,1991,paperback,946,48.59
+978-0262510875,Structure and Interpretation of Computer Programs,"Harold Abelson, Gerald Jay Sussman",,MIT Press,2,computer science,1996,english,1979,paperback,657,43.19
+978-0465060733,Basic Economics: A Common Sense Guide to Economy,Thomas Sowell,,Basic Books,5,economics,2014,english,2000,paperback,704,30
+978-0134190440,Go Programming Language,"Alan Donovan, Brian Kernighan",,Addison Wesley,1,programming,2015,english,3015,paperback,400,20.68
+978-0120884780,Engineering a Compiler,"Keith Cooper, Linda Torczon",,Morgan Kaufmann,2,"computer science, programming",2011,english,2003,hardcover,824,56.99
+978-0714878294,Annie Leibovitz at Work,Annie Leibovitz,,Phaidon Press,1,photography,2018,english,2018,hardcover,260,23.86
+978-1695978553,UNIX: A History and a Memoir,Brian Kernighan,,Independent,1,computer science,2019,english,2019,hardcover,197,15.03
+978-0387848570,The Elements of Statistical Learning,"Trevor Hastie, Robert Tibshirani, Jerome Friedman",,Springer,2,mathematics,2009,english,2001,hardcover,745,47.07
+978-0321992789,Programming: Principles and Practice Using C++,Bjarne Stroustrup,,Addison Wesley,2,programming,2014,english,2008,paperback,1312,34.07
+978-0770436193,Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon,Kim Zetter,,Broadway Books,1,security,2015,english,2014,paperback,448,10.35
+978-0143131625,The Penguin Book of Hell,Scott Bruce,,Penguin,1,religion,2019,english,2019,paperback,320,11.99
+978-0062682826,Scary Stories To Tell in the Dark,Alvin Schwartz,,Harper Collins,1,horror,2017,english,2017,paperback,,14.38
+978-0241398630,The Art of Statistics: Learning from Data,David Spiegelhalter,,Pelican,1,mathematics,2019,english,2019,hardcover,448,16.99
+978-1491910399,R for Data Science,"Garrett Grolemund, Hadley Wickham",,O'Reilly Media,1,programming,2016,english,2016,paperback,250,20.77
+978-1461471370,A Introduction to Statistical Learning with Applications in R,"Gareth James, Daniela Witten, Trevor Hastie",,Springer,1,mathematics,2013,english,2013,hardcover,430,41.35
+978-1107658561,Understanding Probability,Henk Tijms,,Cambridge University Press,3,mathematics,2012,english,2012,paperback,572,29.69
+978-1684112319,Introduction to Graph Theory,Richard Trudeau,,pmapublishing.com,1,mathematics,2017,english,2017,paperback,222,13.99
+978-1292153964,Artificial Intelligence: A Modern Approach,"Stuart Russell, Peter Norvig",,Pearson,3,computer science,2016,english,1994,paperback,1152,48.55
+978-0201616224,The Pragmatic Programmer,Andrew Hunt,,Addison Wesley,1,software engineering,1999,english,1999,paperback,352,35.99
+978-0596514983,Real World Haskell,"Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart",,O'Reilly Media,1,programming,2008,english,2008,paperback,714,25.99
+978-0984782857,Cracking the Coding Interview,Gayle Laakmann McDowell,,CareerCup,6,programming,2015,english,2008,paperback,706,25.36
+978-0262033848,Introduction to Algorithms,"Thomas Cormen, Charles Leiserson, Ronald Rivest",,MIT Press,3,computer science,2009,english,1989,hardcover,1292,59.69
+978-0465026562,"Godel, Escher, Bach: An Eternal Golden Braid",Douglas Hofstadter,,Basic Books,1,mathematics,1999,english,1999,paperback,777,12.99
+978-1546329954,Calculus Made Easy,Silvanus Phillips Thompson,,CreatSpace Independent Publishing Platform,2,mathematics,2017,english,1910,paperback,280,7.5
+978-0883858127,The Hitcherhiker's Guide to Calculus,Michael Spivak,,Mathematical Association of America,1,mathematics,1995,english,1995,paperback,122,22.95
+978-1848000698,The Algorithm Design Manual,Steven Skienna,,Springer,2,computer science,2008,english,1997,hardcover,736,32.93
+978-1292134338,Financial Management for Decision Makers,Peter Atrill,,Pearson,8,finance,2017,english,2005,paperback,676,38.8
+978-0970312594,Propaganda,Edward Bernays,,IG Publishing,1,politics,2004,english,2004,paperback,175,9.16
+978-0394718743,Propaganda: The Formation of Men's Attitudes,Jacques Ellul,,Random House,1,politics,1973,english,1973,paperback,352,11.27
+978-1607967125,Public Relations,Edward Bernays,,snowballpublishing.com,1,politics,2014,english,2014,paperback,384,15.99
+978-0131103627,The C Programming Language,"Brian Kernighan, Dennis Ritchie",,Prentice Hall,2,programming,1988,english,1978,paperback,288,12.23
+978-8131501726,Linear Algebra and Its Applications,Gilbert Strang,,Thomas Press,4,mathematics,2004,english,1968,paperback,544,13.36
+978-0857867278,Mastermind: How to Think Like Sherlock Holmes,Maria Konnikova,,Canongate Books,1,social science,2014,english,2014,paperback,288,8.99
+978-0887388873,The Modern Corporation and Private Property,Adolf Berle,,Transaction Publishers,2,finance,1991,english,1932,paperback,434,39.95
+978-1473912144,Data Visualization: A Handbook for Data Driven Design,Andy Kirk,,SAGE Publications,1,statistics,2016,english,2016,paperback,368,25.9
+978-1605098135,"The Shareholder Value Myth: How Putting Shareholders First Harms Investors, Corporations, and the Public ",Lynn Stout,,Berrett-Koehler Publishers,1,corporate governance,2012,english,2012,paperback,120,12.99
+978-1577315933,The Hero with a Thousand Faces,Joseph Campbell,,New World Library,3,literature,2012,english,1949,hardcover,432,
+978-0060555665,Intelligent Investor: The Definitive Book on Value Investing,Benjamin Graham,,Harper Business,1,business,2003,english,2003,paperback,640,11.99
+978-1841135830,Fiduciary Loyalty: Protecting the Due Performance of Non-Fiduciary Duties ,Matthew Conaglen ,,Hart Publishing,1,law,2010,english,2010,hardcover,332,51.49
+978-1568989693,"Thinking with Type, Second Revised and Expanded Edition: A Critical Guide for Designers, Writers, Editors, and Students",Ellen Lupton ,,Princeton Architectural Press,2,art,2010,english,2004,paperback,224,11.55
+978-0099528128,The Godfather,Mario Puzo,,Arrow,1,fiction,2009,english,2009,paperback,608,3.99
+978-0764542800,The Art of Deception,"William Simon, Kevin Mitnick",,Wiley and Sons,1,security,2003,english,2003,paperback,368,
+978-0141034539,The Rule of Law,Tom Bingham,,Penguin,1,law,2011,english,2011,paperback,213,6.89
+978-1449319434,Regular Expression Cookbook,"Jan Goyvaerts, Steven Levithan",,O'Reilly Media,2,programming,2012,english,2009,paperback,612,26.8
+978-0190229238,Strategy: A History,Lawrence Freedman,,Oxford University Press,2,history,2015,english,2013,paperback,786,
+978-1841133164,The Principles of Personal Property Law,Duncan Sheehan,,Hart Publishing,1,law,2011,english,2011,paperback,486,35
+978-0140124996,How to Solve It: A New Aspect of Mathematical Method,George Polya,,Penguin,1,mathematics,1990,english,1990,paperback,304,
+978-1108439534,How to Prove It,Daniel Velleman,,Cambridge University Press,3,mathematics,2019,english,1994,paperback,400,
+978-0141980591,The Language of Cities,Deyan Sudjic,,Penguin,1,architecture,2017,english,2017,paperback,240,
+978-0198259893,Corporate Power and Responsibility: Issues in the Theory of Company Law,John Parkinson,,Oxford University Press,1,law,1995,english,1995,paperback,504,44.49
