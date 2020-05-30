@@ -6,10 +6,10 @@
 978-0486498201,Common LISP: A Gentle Introduction to Symbolic Computation ,David Touretzky,,Dover Publications,1,programming,,2013,english,2013,paperback,608,26.99,
 978-0521545662,Lisp in Small Pieces,Christian Queinnec,,Cambridge University Press,1,programming,,2010,english,2010,paperback,536,50.53,
 978-1435712751,Let Over Lambda,Doug Hoyte,,lulu.com,1,computer science,,2008,english,2008,paperback,384,29.84,
-978-1558601918,Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp ,Peter Novig,,Morgan Kaufmann,1,computer science,,1991,english,1991,paperback,946,48.59,
+978-1558601918,Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp ,Peter Novig,,Morgan Kaufmann,1,computer science,artificial intelligence,1991,english,1991,paperback,946,48.59,
 978-0262510875,Structure and Interpretation of Computer Programs,"Harold Abelson, Gerald Jay Sussman",,MIT Press,2,computer science,,1996,english,1979,paperback,657,43.19,
 978-0465060733,Basic Economics: A Common Sense Guide to Economy,Thomas Sowell,,Basic Books,5,economics,,2014,english,2000,paperback,704,30,
-978-0134190440,Go Programming Language,"Alan Donovan, Brian Kernighan",,Addison Wesley,1,programming,,2015,english,3015,paperback,400,20.68,
+978-0134190440,Go Programming Language,"Alan Donovan, Brian Kernighan",,Addison Wesley,1,programming,,2015,english,2015,paperback,400,20.68,
 978-0120884780,Engineering a Compiler,"Keith Cooper, Linda Torczon",,Morgan Kaufmann,2,"computer science, programming",,2011,english,2003,hardcover,824,56.99,
 978-0714878294,Annie Leibovitz at Work,Annie Leibovitz,,Phaidon Press,1,photography,,2018,english,2018,hardcover,260,23.86,
 978-1695978553,UNIX: A History and a Memoir,Brian Kernighan,,Independent,1,computer science,,2019,english,2019,hardcover,197,15.03,
@@ -19,9 +19,9 @@
 978-0143131625,The Penguin Book of Hell,Scott Bruce,,Penguin,1,religion,,2019,english,2019,paperback,320,11.99,
 978-0062682826,Scary Stories To Tell in the Dark,Alvin Schwartz,,Harper Collins,1,horror,,2017,english,2017,paperback,,14.38,
 978-0241398630,The Art of Statistics: Learning from Data,David Spiegelhalter,,Pelican,1,mathematics,,2019,english,2019,hardcover,448,16.99,
-978-1491910399,R for Data Science,"Garrett Grolemund, Hadley Wickham",,O'Reilly Media,1,programming,,2016,english,2016,paperback,250,20.77,
-978-1461471370,A Introduction to Statistical Learning with Applications in R,"Gareth James, Daniela Witten, Trevor Hastie",,Springer,1,mathematics,,2013,english,2013,hardcover,430,41.35,
-978-1107658561,Understanding Probability,Henk Tijms,,Cambridge University Press,3,mathematics,,2012,english,2012,paperback,572,29.69,
+978-1491910399,R for Data Science,"Garrett Grolemund, Hadley Wickham",,O'Reilly Media,1,programming,statistics,2016,english,2016,paperback,250,20.77,
+978-1461471370,A Introduction to Statistical Learning with Applications in R,"Gareth James, Daniela Witten, Trevor Hastie",,Springer,1,mathematics,statistics,2013,english,2013,hardcover,430,41.35,
+978-1107658561,Understanding Probability,Henk Tijms,,Cambridge University Press,3,mathematics,"probability, statistics",2012,english,2012,paperback,572,29.69,
 978-1684112319,Introduction to Graph Theory,Richard Trudeau,,pmapublishing.com,1,mathematics,,2017,english,2017,paperback,222,13.99,
 978-1292153964,Artificial Intelligence: A Modern Approach,"Stuart Russell, Peter Norvig",,Pearson,3,computer science,,2016,english,1994,paperback,1152,48.55,
 978-0201616224,The Pragmatic Programmer,Andrew Hunt,,Addison Wesley,1,software engineering,,1999,english,1999,paperback,352,35.99,
@@ -84,7 +84,7 @@
 978-0141975658,The Signal and the Noise: The Art and Science of Prediction,Nate Silver,,Penguin,1,mathematics,,2013,english,2013,paperback,544,,
 978-0099549482,To Kill a Mockingbird,Harper Lee,,Arrow,1,literature,,2010,english,1960,paperback,320,,50th Anniversary edition
 978-0486296722,Game Theory: A Nontechnical Introduction,Morton Davis,,Dover Publications,1,mathematics,,1983,english,1997,paperback,252,,Reprint
-978-0718193881,"Shady Characters: Ampersands, Interrobangs and other Typographical Curiosities",Keith Houston,,Penguin,1,typography,,2015,english,2015,paperback,352,,New Edition
+978-0718193881,"Shady Characters: Ampersands, Interrobangs and other Typographical Curiosities",Keith Houston,,Penguin,1,typography,,2015,english,2015,paperback,352,,New edition
 978-0140280197,The 48 Laws of Power,Robert Greene,,Penguin,1,sociology,,2000,english,1998,paperback,452,9.99,Purchased in Hong Kong
 978-1107534056,Proofs and Refutations: The Logic of Mathematical Discovery,Imre Lakatos,"John Worrall, Eli Zahar",Cambridge University Press,1,mathematics,,2015,english,1976,paperback,196,,Reissue edition
 978-0140620337,The Picture of Dorian Gray,Oscar Wilde,,Penguin,1,literature,,1994,english,1891,paperback,256,,
@@ -102,3 +102,13 @@
 978-0961392147,The Visual Display of Quantitative Information,Edward Tufte,,Graphics Press USA,2,computer science,"information visualisation, design",2001,english,1983,electronic,190,,
 978-0262693141,Readings in Database Systems,,"Peter Bailis, Joseph Hallerstein, Michael Stonebraker",,5,computer science,database,2015,english,1988,electronic,53,,
 978-0201558029,Concrete Mathematics,"Ronald Graham, Donald Knuth, Oren Patashnik",,Addison Wesley,1,mathematics,,1990,english,1989,electronic,,,Sixth printing
+978-0201038125,Surreal Numbers,Donald Knuth,,Addison Wesley,1,mathematics,,1974,english,1974,electronic,128,,
+978-1593272814,"Land of Lisp: Learn to Program in Lisp, One Game at a Time!",Conrad Barski,,No Starch Press,1,programming,lisp,2010,english,2010,electronic,504,,
+978-0471262961,Cominatorics,Russell Merris,,Wiley-Interscience,2,mathematics,combinatorics,2003,english,1996,electronic,,,
+978-1138723726,Mathematics of Keno and Lotteries,Mark Bollman,,Chapman and Hall,1,mathematics,combinatorics,2018,english,2018,electronic,338,,
+978-1292153599,Computer Networking: A Top-Down Approach,"James Kurose, Keith Ross",,Pearson,7,computer science,networking,2016,english,2000,electronic,856,,Global edition
+978-1617292231,Grokking Algorithms: An illustrated guide for programmers and curious people,Manning Publications,,Aditya Bhargava,1,computer science,algorithms,2015,english,2015,electronic,300,,
+978-0444527264,Handbook of Constraint Programming (Foundations of Artificial Intelligence),,"Francesca Rossi, Peter van Beek, Toby Walsh",Elsevier Science,1,computer science,"artificial intelligence, constraint programming",2006,english,2006,electronic,978,,
+978-1108455145,Mathematics for Machine Learning,"Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong",,Cambridge University Press,1,mathematics,artificial intelligence,2020,english,2020,electronic,398,,
+978-0521642989,"Information Theory, Inference, and Learning Algorithms",David MacKay,,Cambridge University Press,7,information theory,,2005,english,1995,electronic,640,,7th printing
+978-0989472128,Book of Proof,Richard Hammack,,Richard Hammack,3,mathematics,,2018,english,2009,electronic,382,,
